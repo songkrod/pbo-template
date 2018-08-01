@@ -83,4 +83,10 @@ fabric.properties
 
 # Editor-based Rest Client
 .idea/httpRequests
->>>>>>> Initial commit.
+.gradle/
+.idea/compiler.xml
+.idea/google-java-format.xml
+.idea/misc.xml
+.idea/modules.xml
+.idea/modules/
+.idea/vcs.xml
