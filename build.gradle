@@ -1,0 +1,13 @@
+allprojects {
+    group 'com.pbo.template'
+    version '1.0-SNAPSHOT'
+}
+
+subprojects {
+    apply plugin: 'java'
+    sourceCompatibility = 1.8
+
+    repositories {
+        mavenCentral()
+    }
+}
